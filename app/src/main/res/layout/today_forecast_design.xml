@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mainLayout"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@color/black"
+    android:backgroundTint="@android:color/transparent">
+
+
+    <TableLayout
+        android:layout_width="wrap_content"
+        android:layout_height="45dp"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true">
+
+        <TableRow>
+
+            <ImageView
+                android:id="@+id/ivRVTodayIconRain"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_centerVertical="true"
+                android:layout_gravity="center_vertical"
+                android:layout_toLeftOf="@id/tvRVTodayRain"
+                android:scaleType="fitXY"
+                tools:srcCompat="@drawable/rainicon" />
+
+            <TextView
+                android:id="@+id/tvRVTodayRain"
+                android:layout_width="30dp"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="5dp"
+                android:layout_toLeftOf="@id/ivRVTodayIcon"
+                android:gravity="left"
+                android:text="55%"
+                android:textColor="#FFFFFF" />
+
+            <ImageView
+                android:id="@+id/ivRVTodayIcon"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:layout_centerVertical="true"
+                android:layout_gravity="right|center_vertical"
+                android:layout_marginLeft="5dp"
+                android:layout_toLeftOf="@id/tvRVTodayTemperature"
+                android:scaleType="fitXY"
+                app:layout_constraintEnd_toStartOf="@+id/tvRVTodayTemperature"
+                tools:srcCompat="@tools:sample/avatars" />
+
+            <TextView
+                android:id="@+id/tvRVTodayTemperature"
+                android:layout_width="30dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_gravity="center_vertical"
+                android:background="@android:color/transparent"
+                android:gravity="right"
+                android:text="30\u2103"
+                android:textColor="@color/white" />
+        </TableRow>
+
+
+    </TableLayout>
+
+    <TextView
+        android:id="@+id/tvRVTodayTime"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:text="Time"
+        android:textColor="#FFFFFF" />
+</RelativeLayout>
