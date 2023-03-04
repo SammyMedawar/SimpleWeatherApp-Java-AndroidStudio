@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-mergeDebugResources-44:\\layout\\fragment_first.xml",
+        "source": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-main-47:\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-mergeDebugResources-44:\\layout\\activity_list_view.xml",
+        "source": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-main-47:\\layout\\activity_list_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-mergeDebugResources-44:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-main-47:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-mergeDebugResources-44:\\layout\\activity_manage.xml",
+        "source": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-main-47:\\layout\\activity_manage.xml"
+    },
+    {
+        "merged": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-mergeDebugResources-44:\\layout\\today_forecast_design.xml",
+        "source": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-main-47:\\layout\\today_forecast_design.xml"
+    },
+    {
+        "merged": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-mergeDebugResources-44:\\layout\\five_days_forecast_design.xml",
+        "source": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-main-47:\\layout\\five_days_forecast_design.xml"
+    },
+    {
+        "merged": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-mergeDebugResources-44:\\layout\\fragment_second.xml",
+        "source": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-main-47:\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "com.example.sammysweatherapp-mergeDebugResources-44:/layout/activity_main.xml",
+        "source": "com.example.sammysweatherapp-main-47:/layout/activity_main.xml"
+    }
+]

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mainLayout"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:backgroundTint="@android:color/transparent">
+
+    <ImageView
+        android:id="@+id/ivRVFiveDaysDayIcon"
+        android:layout_width="45dp"
+        android:layout_height="45dp"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="10dp"
+        android:layout_toLeftOf="@id/ivRVFiveDaysNightIcon"
+        android:scaleType="fitXY"
+        tools:srcCompat="@tools:sample/avatars" />
+
+
+    <ImageView
+        android:id="@+id/ivRVTodayIconRain"
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:layout_centerVertical="true"
+        android:layout_toLeftOf="@id/tvRVTodayRain"
+        android:scaleType="fitXY"
+        tools:srcCompat="@drawable/rainicon" />
+
+    <ImageView
+        android:id="@+id/ivRVFiveDaysNightIcon"
+        android:layout_width="45dp"
+        android:layout_height="45dp"
+        android:layout_centerVertical="true"
+        android:layout_toLeftOf="@id/tvRVFiveDaysDayTemperature"
+        android:scaleType="fitXY"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <TextView
+        android:id="@+id/tvRVTodayTime"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:text="Date"
+        android:textColor="#FFFFFF" />
+
+    <TextView
+        android:id="@+id/tvRVTodayRain"
+        android:layout_width="27dp"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_toLeftOf="@id/ivRVFiveDaysDayIcon"
+        android:gravity="right"
+        android:text="55%"
+        android:textColor="#FFFFFF" />
+
+    <TextView
+        android:id="@+id/tvRVFiveDaysDayTemperature"
+        android:layout_width="30dp"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_toLeftOf="@id/tvRVFiveDaysNightTemperature"
+        android:gravity="right"
+        android:text="30\u2103"
+        android:textColor="@color/white" />
+
+    <TextView
+        android:id="@+id/tvRVFiveDaysNightTemperature"
+        android:layout_width="30dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="5dp"
+        android:gravity="right"
+        android:text="14\u2103"
+        android:textColor="@color/white" />
+</RelativeLayout>

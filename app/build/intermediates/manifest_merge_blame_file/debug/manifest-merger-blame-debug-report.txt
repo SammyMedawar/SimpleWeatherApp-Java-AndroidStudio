@@ -1,0 +1,191 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.sammysweatherapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->C:\Users\workshopstd\Desktop\SammysWeatherApp\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->C:\Users\workshopstd\Desktop\SammysWeatherApp\app\src\main\AndroidManifest.xml
+10
+11    <uses-feature android:name="android.hardware.location.network" />
+11-->C:\Users\workshopstd\Desktop\SammysWeatherApp\app\src\main\AndroidManifest.xml:45:5-70
+11-->C:\Users\workshopstd\Desktop\SammysWeatherApp\app\src\main\AndroidManifest.xml:45:19-67
+12
+13    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+13-->C:\Users\workshopstd\Desktop\SammysWeatherApp\app\src\main\AndroidManifest.xml:46:5-79
+13-->C:\Users\workshopstd\Desktop\SammysWeatherApp\app\src\main\AndroidManifest.xml:46:22-76
+14    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+14-->C:\Users\workshopstd\Desktop\SammysWeatherApp\app\src\main\AndroidManifest.xml:47:5-81
+14-->C:\Users\workshopstd\Desktop\SammysWeatherApp\app\src\main\AndroidManifest.xml:47:22-78
+15    <uses-permission android:name="android.permission.INTERNET" />
+15-->C:\Users\workshopstd\Desktop\SammysWeatherApp\app\src\main\AndroidManifest.xml:48:5-67
+15-->C:\Users\workshopstd\Desktop\SammysWeatherApp\app\src\main\AndroidManifest.xml:48:22-64
+16    <uses-permission android:name="android.permission.INTERNET" />
+16-->C:\Users\workshopstd\Desktop\SammysWeatherApp\app\src\main\AndroidManifest.xml:48:5-67
+16-->C:\Users\workshopstd\Desktop\SammysWeatherApp\app\src\main\AndroidManifest.xml:48:22-64
+17    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+17-->C:\Users\workshopstd\Desktop\SammysWeatherApp\app\src\main\AndroidManifest.xml:46:5-79
+17-->C:\Users\workshopstd\Desktop\SammysWeatherApp\app\src\main\AndroidManifest.xml:46:22-76
+18
+19    <!-- Include required permissions for Google Maps API to run. -->
+20    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+20-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\workshopstd\.gradle\caches\transforms-3\90e0a6c550d0f1d9597d1518abf87192\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:5-79
+20-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\workshopstd\.gradle\caches\transforms-3\90e0a6c550d0f1d9597d1518abf87192\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:22-76
+21
+22    <uses-feature
+22-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\workshopstd\.gradle\caches\transforms-3\90e0a6c550d0f1d9597d1518abf87192\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
+23        android:glEsVersion="0x00020000"
+23-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\workshopstd\.gradle\caches\transforms-3\90e0a6c550d0f1d9597d1518abf87192\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
+24        android:required="true" />
+24-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\workshopstd\.gradle\caches\transforms-3\90e0a6c550d0f1d9597d1518abf87192\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
+25
+26    <permission
+26-->[androidx.core:core:1.9.0] C:\Users\workshopstd\.gradle\caches\transforms-3\c6770eda00af6c105866b6db09ea3053\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+27        android:name="com.example.sammysweatherapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+27-->[androidx.core:core:1.9.0] C:\Users\workshopstd\.gradle\caches\transforms-3\c6770eda00af6c105866b6db09ea3053\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+28        android:protectionLevel="signature" />
+28-->[androidx.core:core:1.9.0] C:\Users\workshopstd\.gradle\caches\transforms-3\c6770eda00af6c105866b6db09ea3053\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+29
+30    <uses-permission android:name="com.example.sammysweatherapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+30-->[androidx.core:core:1.9.0] C:\Users\workshopstd\.gradle\caches\transforms-3\c6770eda00af6c105866b6db09ea3053\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+30-->[androidx.core:core:1.9.0] C:\Users\workshopstd\.gradle\caches\transforms-3\c6770eda00af6c105866b6db09ea3053\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+31
+32    <application
+32-->C:\Users\workshopstd\Desktop\SammysWeatherApp\app\src\main\AndroidManifest.xml:5:5-43:19
+33        android:allowBackup="true"
+33-->C:\Users\workshopstd\Desktop\SammysWeatherApp\app\src\main\AndroidManifest.xml:6:9-35
+34        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+34-->[androidx.core:core:1.9.0] C:\Users\workshopstd\.gradle\caches\transforms-3\c6770eda00af6c105866b6db09ea3053\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+35        android:dataExtractionRules="@xml/data_extraction_rules"
+35-->C:\Users\workshopstd\Desktop\SammysWeatherApp\app\src\main\AndroidManifest.xml:7:9-65
+36        android:debuggable="true"
+37        android:extractNativeLibs="false"
+38        android:fullBackupContent="@xml/backup_rules"
+38-->C:\Users\workshopstd\Desktop\SammysWeatherApp\app\src\main\AndroidManifest.xml:8:9-54
+39        android:icon="@drawable/newicon"
+39-->C:\Users\workshopstd\Desktop\SammysWeatherApp\app\src\main\AndroidManifest.xml:9:9-41
+40        android:label="@string/app_name"
+40-->C:\Users\workshopstd\Desktop\SammysWeatherApp\app\src\main\AndroidManifest.xml:10:9-41
+41        android:roundIcon="@drawable/newiconround"
+41-->C:\Users\workshopstd\Desktop\SammysWeatherApp\app\src\main\AndroidManifest.xml:11:9-51
+42        android:supportsRtl="true"
+42-->C:\Users\workshopstd\Desktop\SammysWeatherApp\app\src\main\AndroidManifest.xml:12:9-35
+43        android:theme="@style/Theme.SammysWeatherApp" >
+43-->C:\Users\workshopstd\Desktop\SammysWeatherApp\app\src\main\AndroidManifest.xml:13:9-54
+44        <activity
+44-->C:\Users\workshopstd\Desktop\SammysWeatherApp\app\src\main\AndroidManifest.xml:15:9-21:20
+45            android:name="com.example.sammysweatherapp.list_view"
+45-->C:\Users\workshopstd\Desktop\SammysWeatherApp\app\src\main\AndroidManifest.xml:16:13-38
+46            android:exported="false" >
+46-->C:\Users\workshopstd\Desktop\SammysWeatherApp\app\src\main\AndroidManifest.xml:17:13-37
+47            <meta-data
+47-->C:\Users\workshopstd\Desktop\SammysWeatherApp\app\src\main\AndroidManifest.xml:18:13-20:36
+48                android:name="android.app.lib_name"
+48-->C:\Users\workshopstd\Desktop\SammysWeatherApp\app\src\main\AndroidManifest.xml:19:17-52
+49                android:value="" />
+49-->C:\Users\workshopstd\Desktop\SammysWeatherApp\app\src\main\AndroidManifest.xml:20:17-33
+50        </activity>
+51        <activity
+51-->C:\Users\workshopstd\Desktop\SammysWeatherApp\app\src\main\AndroidManifest.xml:22:9-28:20
+52            android:name="com.example.sammysweatherapp.activity_manage"
+52-->C:\Users\workshopstd\Desktop\SammysWeatherApp\app\src\main\AndroidManifest.xml:23:13-44
+53            android:exported="false" >
+53-->C:\Users\workshopstd\Desktop\SammysWeatherApp\app\src\main\AndroidManifest.xml:24:13-37
+54            <meta-data
+54-->C:\Users\workshopstd\Desktop\SammysWeatherApp\app\src\main\AndroidManifest.xml:18:13-20:36
+55                android:name="android.app.lib_name"
+55-->C:\Users\workshopstd\Desktop\SammysWeatherApp\app\src\main\AndroidManifest.xml:19:17-52
+56                android:value="" />
+56-->C:\Users\workshopstd\Desktop\SammysWeatherApp\app\src\main\AndroidManifest.xml:20:17-33
+57        </activity>
+58        <activity
+58-->C:\Users\workshopstd\Desktop\SammysWeatherApp\app\src\main\AndroidManifest.xml:29:9-42:20
+59            android:name="com.example.sammysweatherapp.MainActivity"
+59-->C:\Users\workshopstd\Desktop\SammysWeatherApp\app\src\main\AndroidManifest.xml:30:13-41
+60            android:exported="true"
+60-->C:\Users\workshopstd\Desktop\SammysWeatherApp\app\src\main\AndroidManifest.xml:31:13-36
+61            android:windowSoftInputMode="adjustPan" >
+61-->C:\Users\workshopstd\Desktop\SammysWeatherApp\app\src\main\AndroidManifest.xml:32:13-52
+62 >
+63            <intent-filter>
+63-->C:\Users\workshopstd\Desktop\SammysWeatherApp\app\src\main\AndroidManifest.xml:33:13-37:29
+64                <action android:name="android.intent.action.MAIN" />
+64-->C:\Users\workshopstd\Desktop\SammysWeatherApp\app\src\main\AndroidManifest.xml:34:17-69
+64-->C:\Users\workshopstd\Desktop\SammysWeatherApp\app\src\main\AndroidManifest.xml:34:25-66
+65
+66                <category android:name="android.intent.category.LAUNCHER" />
+66-->C:\Users\workshopstd\Desktop\SammysWeatherApp\app\src\main\AndroidManifest.xml:36:17-77
+66-->C:\Users\workshopstd\Desktop\SammysWeatherApp\app\src\main\AndroidManifest.xml:36:27-74
+67            </intent-filter>
+68
+69            <meta-data
+69-->C:\Users\workshopstd\Desktop\SammysWeatherApp\app\src\main\AndroidManifest.xml:18:13-20:36
+70                android:name="android.app.lib_name"
+70-->C:\Users\workshopstd\Desktop\SammysWeatherApp\app\src\main\AndroidManifest.xml:19:17-52
+71                android:value="" />
+71-->C:\Users\workshopstd\Desktop\SammysWeatherApp\app\src\main\AndroidManifest.xml:20:17-33
+72        </activity>
+73        <!-- Needs to be explicitly declared on P+ -->
+74        <uses-library
+74-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\workshopstd\.gradle\caches\transforms-3\90e0a6c550d0f1d9597d1518abf87192\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+75            android:name="org.apache.http.legacy"
+75-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\workshopstd\.gradle\caches\transforms-3\90e0a6c550d0f1d9597d1518abf87192\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
+76            android:required="false" />
+76-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\workshopstd\.gradle\caches\transforms-3\90e0a6c550d0f1d9597d1518abf87192\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
+77
+78        <activity
+78-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\workshopstd\.gradle\caches\transforms-3\3beeed86b8e9949a082d755c644c0cdb\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+79            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+79-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\workshopstd\.gradle\caches\transforms-3\3beeed86b8e9949a082d755c644c0cdb\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+80            android:exported="false"
+80-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\workshopstd\.gradle\caches\transforms-3\3beeed86b8e9949a082d755c644c0cdb\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+81            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+81-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\workshopstd\.gradle\caches\transforms-3\3beeed86b8e9949a082d755c644c0cdb\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+82
+83        <meta-data
+83-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\workshopstd\.gradle\caches\transforms-3\9a39cd00e44443b6f0252f154b289378\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+84            android:name="com.google.android.gms.version"
+84-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\workshopstd\.gradle\caches\transforms-3\9a39cd00e44443b6f0252f154b289378\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+85            android:value="@integer/google_play_services_version" />
+85-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\workshopstd\.gradle\caches\transforms-3\9a39cd00e44443b6f0252f154b289378\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+86
+87        <provider
+87-->[androidx.emoji2:emoji2:1.2.0] C:\Users\workshopstd\.gradle\caches\transforms-3\7b79f7e4a058224274d9b5ea417be867\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+88            android:name="androidx.startup.InitializationProvider"
+88-->[androidx.emoji2:emoji2:1.2.0] C:\Users\workshopstd\.gradle\caches\transforms-3\7b79f7e4a058224274d9b5ea417be867\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+89            android:authorities="com.example.sammysweatherapp.androidx-startup"
+89-->[androidx.emoji2:emoji2:1.2.0] C:\Users\workshopstd\.gradle\caches\transforms-3\7b79f7e4a058224274d9b5ea417be867\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+90            android:exported="false" >
+90-->[androidx.emoji2:emoji2:1.2.0] C:\Users\workshopstd\.gradle\caches\transforms-3\7b79f7e4a058224274d9b5ea417be867\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+91            <meta-data
+91-->[androidx.emoji2:emoji2:1.2.0] C:\Users\workshopstd\.gradle\caches\transforms-3\7b79f7e4a058224274d9b5ea417be867\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+92                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+92-->[androidx.emoji2:emoji2:1.2.0] C:\Users\workshopstd\.gradle\caches\transforms-3\7b79f7e4a058224274d9b5ea417be867\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+93                android:value="androidx.startup" />
+93-->[androidx.emoji2:emoji2:1.2.0] C:\Users\workshopstd\.gradle\caches\transforms-3\7b79f7e4a058224274d9b5ea417be867\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+94            <meta-data
+94-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\workshopstd\.gradle\caches\transforms-3\e49fb580d7eda2494a8100e094041989\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+95                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+95-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\workshopstd\.gradle\caches\transforms-3\e49fb580d7eda2494a8100e094041989\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+96                android:value="androidx.startup" />
+96-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\workshopstd\.gradle\caches\transforms-3\e49fb580d7eda2494a8100e094041989\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+97        </provider>
+98
+99        <uses-library
+99-->[androidx.window:window:1.0.0] C:\Users\workshopstd\.gradle\caches\transforms-3\a168aa6180515b270a921847cb17cfdc\transformed\jetified-window-1.0.0\AndroidManifest.xml:25:9-27:40
+100            android:name="androidx.window.extensions"
+100-->[androidx.window:window:1.0.0] C:\Users\workshopstd\.gradle\caches\transforms-3\a168aa6180515b270a921847cb17cfdc\transformed\jetified-window-1.0.0\AndroidManifest.xml:26:13-54
+101            android:required="false" />
+101-->[androidx.window:window:1.0.0] C:\Users\workshopstd\.gradle\caches\transforms-3\a168aa6180515b270a921847cb17cfdc\transformed\jetified-window-1.0.0\AndroidManifest.xml:27:13-37
+102        <uses-library
+102-->[androidx.window:window:1.0.0] C:\Users\workshopstd\.gradle\caches\transforms-3\a168aa6180515b270a921847cb17cfdc\transformed\jetified-window-1.0.0\AndroidManifest.xml:28:9-30:40
+103            android:name="androidx.window.sidecar"
+103-->[androidx.window:window:1.0.0] C:\Users\workshopstd\.gradle\caches\transforms-3\a168aa6180515b270a921847cb17cfdc\transformed\jetified-window-1.0.0\AndroidManifest.xml:29:13-51
+104            android:required="false" />
+104-->[androidx.window:window:1.0.0] C:\Users\workshopstd\.gradle\caches\transforms-3\a168aa6180515b270a921847cb17cfdc\transformed\jetified-window-1.0.0\AndroidManifest.xml:30:13-37
+105    </application>
+106
+107</manifest>

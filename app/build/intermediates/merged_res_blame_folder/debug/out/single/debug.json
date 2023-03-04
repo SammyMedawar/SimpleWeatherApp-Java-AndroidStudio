@@ -1,0 +1,166 @@
+[
+    {
+        "merged": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-merged_res-45:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-main-47:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-merged_res-45:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-main-47:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-merged_res-45:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-main-47:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-merged_res-45:\\drawable_rainicon.png.flat",
+        "source": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-main-47:\\drawable\\rainicon.png"
+    },
+    {
+        "merged": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-merged_res-45:\\drawable_windicon.png.flat",
+        "source": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-main-47:\\drawable\\windicon.png"
+    },
+    {
+        "merged": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-merged_res-45:\\layout_activity_manage.xml.flat",
+        "source": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-main-47:\\layout\\activity_manage.xml"
+    },
+    {
+        "merged": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-merged_res-45:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-main-47:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-merged_res-45:\\drawable_newicon.png.flat",
+        "source": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-main-47:\\drawable\\newicon.png"
+    },
+    {
+        "merged": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-merged_res-45:\\layout_activity_list_view.xml.flat",
+        "source": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-main-47:\\layout\\activity_list_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-merged_res-45:\\menu_navigation_menu.xml.flat",
+        "source": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-main-47:\\menu\\navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-merged_res-45:\\layout_five_days_forecast_design.xml.flat",
+        "source": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-main-47:\\layout\\five_days_forecast_design.xml"
+    },
+    {
+        "merged": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-merged_res-45:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-main-47:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-merged_res-45:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-main-47:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-merged_res-45:\\drawable_colors.xml.flat",
+        "source": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-main-47:\\drawable\\colors.xml"
+    },
+    {
+        "merged": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-merged_res-45:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-main-47:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-merged_res-45:\\drawable_rounded_edge_light_purple.xml.flat",
+        "source": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-main-47:\\drawable\\rounded_edge_light_purple.xml"
+    },
+    {
+        "merged": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-merged_res-45:\\drawable_humidityicon.png.flat",
+        "source": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-main-47:\\drawable\\humidityicon.png"
+    },
+    {
+        "merged": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-merged_res-45:\\layout_today_forecast_design.xml.flat",
+        "source": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-main-47:\\layout\\today_forecast_design.xml"
+    },
+    {
+        "merged": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-merged_res-45:\\drawable_sunriseicon.png.flat",
+        "source": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-main-47:\\drawable\\sunriseicon.png"
+    },
+    {
+        "merged": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-merged_res-45:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-main-47:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-merged_res-45:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-main-47:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-merged_res-45:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-main-47:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-merged_res-45:\\drawable_sunseticon.png.flat",
+        "source": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-main-47:\\drawable\\sunseticon.png"
+    },
+    {
+        "merged": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-merged_res-45:\\layout_fragment_first.xml.flat",
+        "source": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-main-47:\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-merged_res-45:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-main-47:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-merged_res-45:\\layout_fragment_second.xml.flat",
+        "source": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-main-47:\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-merged_res-45:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-main-47:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-merged_res-45:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-main-47:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-merged_res-45:\\drawable_icon.png.flat",
+        "source": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-main-47:\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-merged_res-45:\\drawable_rounded_edge_darker_purple.xml.flat",
+        "source": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-main-47:\\drawable\\rounded_edge_darker_purple.xml"
+    },
+    {
+        "merged": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-merged_res-45:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-main-47:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-merged_res-45:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-main-47:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-merged_res-45:\\menu_remove_menu.xml.flat",
+        "source": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-main-47:\\menu\\remove_menu.xml"
+    },
+    {
+        "merged": "com.example.sammysweatherapp-merged_res-45:/layout_activity_main.xml.flat",
+        "source": "com.example.sammysweatherapp-main-47:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-merged_res-45:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-main-47:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-merged_res-45:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-main-47:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-merged_res-45:\\drawable_rounded_edge_recyclerview.xml.flat",
+        "source": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-main-47:\\drawable\\rounded_edge_recyclerview.xml"
+    },
+    {
+        "merged": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-merged_res-45:\\drawable_gradient_bg.xml.flat",
+        "source": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-main-47:\\drawable\\gradient_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-merged_res-45:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-main-47:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-merged_res-45:\\menu_edit_menu.xml.flat",
+        "source": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-main-47:\\menu\\edit_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-merged_res-45:\\drawable_newiconround.png.flat",
+        "source": "C:\\Users\\workshopstd\\.gradle\\daemon\\7.4\\com.example.sammysweatherapp-main-47:\\drawable\\newiconround.png"
+    }
+]

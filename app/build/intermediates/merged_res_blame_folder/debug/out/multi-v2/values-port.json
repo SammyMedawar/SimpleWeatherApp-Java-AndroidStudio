@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.sammysweatherapp-mergeDebugResources-43:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\workshopstd\\.gradle\\caches\\transforms-3\\da10056dbb7cd7dc7f502eafa241998a\\transformed\\appcompat-1.6.1\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}
