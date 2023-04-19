@@ -1,21 +1,22 @@
 # SimpleWeatherApp-Java-AndroidStudio  
 A simple weather app I made by myself using the OpenWeatherMap API to get a 5 day weather forecast and the Nominatim API to geocode locations 🌤️☂️ ⛈️    
 Note: The second contributor was an error as I used the wrong account when pushing.    
+**My Email:** sammymedawar2002@gmail.com  
 
-Features:  
+**Features:**  
 Get weather information for the day  
 Get weather information for the next 5 days  
 Search for a location and get weather data about it  
 Saved that location to favorite locations if the user wants to easily return to it later   
 Delete any favorite locations if needed  
 
-Built Using:  
+**Built Using:**  
 Android Studio  
 Java  
 OpenWeatherMap API (for the 5 day weather forecasts)  
 Nominatim API (for geocoding)  
 
-Screenshots:  
+**Screenshots:**  
 Upon opening the app  
 ![2](https://user-images.githubusercontent.com/124078120/233033908-d2e1859b-e643-4c2e-8703-5071941ac1cb.PNG)  
 
